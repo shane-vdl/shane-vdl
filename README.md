@@ -18,8 +18,8 @@
 
 - A passionate Self-taught Fullstack developer
 - Currently studying a Bachelor of Science in Computer Science and Engineering at the University of the People
-- Also interested in Data Science and Artificial Intelligence
-- Currently working on the Odin Project as well as a personal API project.
+- Also interested in Data Science, Cyber Security and Artificial Intelligence
+- Currently working on the Odin Project.
 
 
 <br><br>
