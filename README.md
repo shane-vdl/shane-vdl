@@ -18,7 +18,7 @@
 
 - A passionate Self-taught Fullstack developer
 - Currently studying a Bachelor of Science in Computer Science and Engineering at the University of the People
-- Also interested in Cyber Security and Artificial Intelligence
+- Also interested in Cyber Security 
 - Currently working on the Odin Project.
 
 
