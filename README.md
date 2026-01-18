@@ -30,6 +30,7 @@
 <p align="center">
 
 - **Languages**:
+  <br>
     ![HTML/CSS](https://img.shields.io/badge/HTML%20/%20CSS-8A2BE2)
     ![Java](https://img.shields.io/badge/Java-orange)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
