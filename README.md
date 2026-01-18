@@ -96,14 +96,14 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/shane-vdl/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="mailto:shane.videloup@gmail.com" target="_blank">
+<a href="mailto:contact@vdl-solutions.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  shane-vdl-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
