@@ -98,6 +98,8 @@
 
 ## <b> Let's Connect..!</b>
 <br>
+	![Contact](https://img.shields.io/badge/Contact-brightgreen?style=for-the-badge) 
+
 <div align='left'>
 
 <ul>
