@@ -12,13 +12,12 @@
 	
 ##**About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - A passionate Self-taught Junior Web developer
+- Associate Degree graduate from the University of The People (Pasadena, CA)
 - Currently studying a Bachelor of Science in Computer Science and Engineering at the University of the People
-- Also interested in Cyber Security 
+- Also interested in Cyber Security.
 
 
 <br><br>
@@ -35,7 +34,7 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](
+    ![Java](https://img.shields.io/badge/coverage-95%25-orange)
 
 <br>   
     
