@@ -15,6 +15,7 @@
 <br>
 
 - A passionate Self-taught Junior Web developer
+- Founder of VDL Solutions
 - Associate Degree graduate from the University of The People (Pasadena, CA)
 - Currently studying a Bachelor of Science in Computer Science and Engineering at the University of the People
 - Also interested in Cyber Security.
